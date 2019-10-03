@@ -2,7 +2,8 @@
 
 > This is a block
 
-> git submodule add <git url>
+> git submodule add [submodule's git url]
+
 > super project only knows that submodule has changed
 > not the detail
 >
