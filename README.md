@@ -2,7 +2,11 @@
 
 > This is a block
 
-```javascript
-let hello = 'Hello world';
-console.log(hello);
-```
+> git submodule add <git url>
+> super project only knows that submodule has changed
+> not the detail
+>
+> commit submodule first than push it to github
+> then commit super and push it ...
+>
+>
